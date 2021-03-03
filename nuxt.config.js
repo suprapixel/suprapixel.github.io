@@ -1,3 +1,5 @@
 export default {
-    target: 'static'
+    target: 'static',
+    srcDir: 'src',
+    components: true,
 }
