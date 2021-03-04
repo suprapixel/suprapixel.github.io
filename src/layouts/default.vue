@@ -1,5 +1,6 @@
 <template>
-    <div>
-        <nuxt />
-    </div>
+	<div>
+		<supra-head />
+		<nuxt />
+	</div>
 </template>

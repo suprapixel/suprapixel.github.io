@@ -22,6 +22,11 @@ export default {
 					href: '/safari-pinned-tab.svg',
 					color: '#272B36',
 				},
+				{
+					rel: 'stylesheet',
+					href:
+						'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css',
+				},
 			],
 		}
 	},
